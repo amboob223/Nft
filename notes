@@ -1,0 +1,10 @@
+Notes to make NFT
+    -you got to go to open zepplin and make the contract
+    -then you oopen in remix 
+    -then you make a json file for the metadata and upload that to nft.
+    storage which  goes to ipfs 
+            threee feilds name,description and image
+            image is the ipfs url when you upload pic
+
+    - then you make upload the pic there too 
+    -when you mint nft you got to put the id the address its going to and the uri 
